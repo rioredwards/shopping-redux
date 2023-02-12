@@ -16,7 +16,7 @@ const DUMMY_PRODUCTS = [
   },
 ];
 
-const Products = (props) => {
+const Products = () => {
   return (
     <section className={classes.products}>
       <h2>Buy your favorite products</h2>
